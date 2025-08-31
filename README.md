@@ -1,21 +1,13 @@
-# README.md
 
-# PyQuotex
-<p>
-<a target="_blank">
-  <img src="https://github.com/cleitonleonel/pyquotex/blob/master/pyquotex.gif?raw=true" alt="pyquotex" width="200"/>
-</a>
-<br>
-<a target="_blank">
-    <img src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-green" alt="python" width="300">
-</a>
-</p>
+<div style="text-align: center;">
+    <a target="_blank">
+        <img src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-green" alt="python" width="300">
+    </a>
+</div>
 
-
-# About the PyQuotex Library
 
 This library was developed with the purpose of facilitating communication with the Quotex platform through WebSockets, enabling real-time data retrieval and the automation of operations. **It is important to note that this library is not a trading bot, nor does it intend to be**.
-To access more features and greater stability, consider joining the private version.
+To access more features and greater stability.
 
 ## Library Objective
 
@@ -28,16 +20,6 @@ Any additional automation, including the creation of automatic bots that make tr
 ## Disclaimer
 
 As the developer of this library, **I am not responsible for any malfunction or application failure** that may occur due to improper use of the library or the implementation of automations that go beyond the original scope of this tool.
-
-If you decide to use this library, it is crucial that you carefully analyze and rigorously test your implementations to ensure that they meet your needs and expectations.
-
-# Notice about Support and Discussions
-
-Due to the high volume of messages seeking information and support, and considering that I am just one person and do not have the time to assist everyone individually, **I have created a [discussion group on Telegram](https://t.me/+Uzcmc-NZvN4xNTQx)**.
-
-This group was created so that members can help each other, ask questions, and collaborate with others who are also using this library. Your participation and interaction in the group are highly encouraged, as this way everyone can benefit from the collective experience.
-
-Feel free to join the group and contribute with your questions and knowledge.
 
 ### Important note
 For some reason, cloudflare ends up identifying automated access to the quotex API and we
